@@ -1,0 +1,9 @@
+Danske_byer.txt
+Dyr.txt
+Danske_personer.txt
+Navneord.txt
+Verber.txt
+Adjektiver.txt
+Geografi.txt
+Internationale_personer.txt
+kunforsjov.txt
